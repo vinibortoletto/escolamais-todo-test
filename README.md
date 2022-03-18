@@ -20,7 +20,7 @@ Para clonar e usar este app, você precisará de: [Git](https://git-scm.com), [V
 $ git clone https://github.com/vinibortoletto/escolamais-todo-test.git
 
 # Instale as dependências
-$ npm i
+$ cd escolamais-todo-test && npm i
 
 # Inicie o app
 $ npm run dev
